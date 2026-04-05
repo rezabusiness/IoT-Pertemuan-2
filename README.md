@@ -21,3 +21,5 @@ Perangkat yang digunakan:
 5. Kabel jumper
 
 Proyek ini disimulasikan menggunakan platform Wokwi.
+<img width="1871" height="932" alt="image" src="https://github.com/user-attachments/assets/ae11fbee-e028-42d5-9d17-c2bfbf350b10" />
+<img width="1856" height="932" alt="image" src="https://github.com/user-attachments/assets/69607764-dcd9-46fc-86b7-0d32f987b95c" />
